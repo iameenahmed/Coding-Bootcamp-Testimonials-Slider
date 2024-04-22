@@ -18,11 +18,11 @@ const App = () => {
       <header className="sr-only">
         <h1>Testimonials</h1>
       </header>
-      <main className="mx-auto min-h-screen w-full bg-Curve bg-contain bg-left-bottom bg-no-repeat p-6 font-Inter md:bg-auto md:p-40 md:pr-[72px] md:pt-12">
+      <main className="min-h-screen w-full bg-Curve bg-contain bg-left-bottom bg-no-repeat p-6 font-Inter md:bg-auto xl:px-[74px] xl:pt-12">
         {testimonials.map((testimonial) => (
           <section
             key={testimonial.id}
-            className={`animate-fadeIn ${
+            className={`mx-auto animate-fadeIn min-[440px]:w-[25rem] lg:w-full ${
               current === testimonial.id - 1 ? "block" : "hidden"
             }`}
           >
