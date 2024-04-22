@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.quote {
+  background-position-x: center;
+  background-size: 20%;
+}
+
+@media (min-width: 780px) {
+  .quote {
+    background-position-x: 7.5vw;
+    background-size: auto;
+  }
+}
