@@ -13,11 +13,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design](images/desktop-design.jpg)
+![Desktop Design](design/desktop-design-slide-2.jpg)
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/coding-bootcamp-testimonials-slider](https://www.frontendmentor.io/solutions/)
+- Solution URL: [frontendmentor.io/solutions/coding-bootcamp-testimonials-slider](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-using-reactjs-cxbSX7aYjM)
 
 ## My process
 
